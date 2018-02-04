@@ -1,2 +1,2 @@
 # EnglishDict
-This is a English dict made by python
+In this project, python and pyqt5 and qt designer were used.
